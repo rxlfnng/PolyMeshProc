@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/gc/PolyMeshProc/3rdparty/glfw-3.3.2/tests/CMakeLists.txt
+  joysticks.c
+  glad_gl.c
+  正在生成代码...
+  joysticks.vcxproj -> D:\gc\PolyMeshProc\3rdparty\glfw-3.3.2\build\tests\Release\joysticks.exe

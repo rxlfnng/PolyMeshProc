@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\gc\PolyMeshProc\3rdparty\glfw-3.3.2\build\CMakeFiles\cb1de1e3a980769e3e1b36e9426f278f\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\gc\PolyMeshProc\3rdparty\glfw-3.3.2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\gc\PolyMeshProc\3rdparty\glfw-3.3.2\build\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4BAAE179-1C46-3728-A5C0-BD352CD26709}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

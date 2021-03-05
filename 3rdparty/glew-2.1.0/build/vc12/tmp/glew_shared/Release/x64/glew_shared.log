@@ -1,0 +1,4 @@
+﻿  glew.c
+    正在创建库 ..\..\lib\Release\x64\glew32.lib 和对象 ..\..\lib\Release\x64\glew32.exp
+LINK : warning LNK4281: x64 映像的基址 0x62AA0000 不适当；将基址设为 4 GB 以上以实现最佳 ASLR 优化
+  glew_shared.vcxproj -> D:\gc\PolyMeshProc\3rdparty\glew-2.1.0\build\vc12\..\..\bin\Release\x64\glew32.dll

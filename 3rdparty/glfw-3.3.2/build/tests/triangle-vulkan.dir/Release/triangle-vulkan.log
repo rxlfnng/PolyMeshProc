@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/gc/PolyMeshProc/3rdparty/glfw-3.3.2/tests/CMakeLists.txt
+  triangle-vulkan.c
+  glad_vulkan.c
+  正在生成代码...
+  triangle-vulkan.vcxproj -> D:\gc\PolyMeshProc\3rdparty\glfw-3.3.2\build\tests\Release\triangle-vulkan.exe
