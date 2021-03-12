@@ -1,2 +1,3 @@
 ﻿  main.cpp
-  PolyMeshProc.vcxproj -> D:\gc\PolyMeshProc\x64\Debug\PolyMeshProc.exe
+d:\polymeshproc\include\base.h(18): warning C4091: “typedef ”: 没有声明变量时忽略“Point”的左侧
+  PolyMeshProc.vcxproj -> D:\PolyMeshProc\x64\Debug\PolyMeshProc.exe
